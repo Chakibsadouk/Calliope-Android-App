@@ -126,4 +126,5 @@
             android:name=".core.bluetooth.CheckService"
             android:enabled="true" />
     </application>
+    ACCESS_WIFI_STATE
 </manifest>
